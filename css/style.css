@@ -1,0 +1,13 @@
+body{
+    background-color: #a59191;
+}
+p{
+    color: #a59191;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #312e2e;
+    border-radius: 10px;
+    padding: 10px;
+}
+
